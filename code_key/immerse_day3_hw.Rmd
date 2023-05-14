@@ -12,11 +12,11 @@ output: html_document
 - Remember ggplot?
 - A map in R
 
-### Setup
+<!-- ### Setup -->
 
-- **Fork** this repo from GitHub (https://github.com/oharac/immerse_day3_more_wrangling)
-- Clone to create a version controlled R project 
-- Within the project root folder, create a new RMarkdown document in which you'll complete this lab
+<!-- - **Fork** this repo from GitHub (https://github.com/oharac/immerse_day3_more_wrangling) -->
+<!-- - Clone to create a version controlled R project  -->
+<!-- - Within the project root folder, create a new RMarkdown document in which you'll complete this lab -->
 
 ### Attach packages
 
