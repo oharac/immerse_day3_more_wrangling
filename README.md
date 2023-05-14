@@ -1,6 +1,6 @@
-## ESM 244 Lab 1 Materials 
+## IMMERSE pre-training day 3 homework - more data wrangling practice!
 
-Prepared by: Allison Horst and Casey O'Hara
+Prepared by: Allison Horst and Casey O'Hara for UCSB Bren ESM 244
 
 ### Data used: 
 
