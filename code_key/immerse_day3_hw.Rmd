@@ -1,7 +1,9 @@
 ---
 title: "Additional wrangling practice"
 author: "Allison Horst, Casey O'Hara"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ### Objectives
